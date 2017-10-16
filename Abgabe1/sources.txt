@@ -1,0 +1,7 @@
+./src/at/ac/univie/swe2016/fm/fahrzeuge/LKW.java
+./src/at/ac/univie/swe2016/fm/fahrzeuge/PKW.java
+./src/at/ac/univie/swe2016/fm/fahrzeuge/Fahrzeug.java
+./src/at/ac/univie/swe2016/fm/FahrzeugManagement.java
+./src/swe2016/fm/fahrzeuge/dao/SerializedFahrzeugDAO.java
+./src/swe2016/fm/fahrzeuge/dao/FahrzeugDAO.java
+./src/FahrzeugClient.java
